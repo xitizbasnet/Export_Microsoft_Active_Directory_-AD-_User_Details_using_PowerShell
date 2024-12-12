@@ -159,5 +159,3 @@ Export-Csv -Path "C:\AD_Users.csv" -NoTypeInformation
 - **OUs in Top-to-Bottom Order**: The OUs (OU=*) are extracted and joined together in top-to-bottom order using the `>` separator.
 
 ---
-
-### Section Breaks
